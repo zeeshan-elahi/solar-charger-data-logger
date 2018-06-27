@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EasyModbusJava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/EasyModbusJava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

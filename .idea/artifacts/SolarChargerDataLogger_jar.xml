@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="SolarChargerDataLogger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SolarChargerDataLogger</output-path>
+    <root id="root">
+      <element id="archive" name="SolarChargerDataLogger.jar">
+        <element id="module-output" name="SolarChargerDataLogger" />
+      </element>
+      <element id="library" level="project" name="log4j-1.2.17" />
+      <element id="library" level="project" name="EasyModbusJava" />
+      <element id="file-copy" path="$PROJECT_DIR$/application.properties" />
+      <element id="file-copy" path="$PROJECT_DIR$/jdbc.properties" />
+      <element id="library" level="project" name="mysql-connector-java-5.1.43" />
+    </root>
+  </artifact>
+</component>
